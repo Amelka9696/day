@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background: rgb(255,251,181);
+    background: linear-gradient(29deg, rgba(255,251,181,1) 0%, rgba(253,255,112,1) 22%, rgba(252,255,33,1) 53%, rgba(253,255,112,1) 81%, rgba(255,251,181,1) 100%);
+  }
+  
+  .title{
+    font-family:Univers;
+    font-size: 130%;
+    color:rgb(255, 51, 0)
+  }
+  h2{
+    font-family:Bodoni;
+    font-size: 160%;
+    margin-left: -12%;
+  }
+  h3{
+    font-style: italic;
+  }
+  .hol {
+    color: #333;
+    font-family: Courier;
+    font-size: 120%;
+    margin-left: 40%;
+    float: left;
+  }
+  .day {
+    color: #ff5100;
+    font-family: Courier;
+    font-size: 120%;
+    font-weight: 700;
+    font-style: italic;
+    float: left;
+  }
+  .haur{
+    color: #ff7300;
+    font-family: Courier;
+    font-size: 120%;
+    font-weight: 700;
+    font-style: italic;
+    float: left;
+  }
+  .minute{
+    color: #ff8800;
+    font-family: Courier;
+    font-size: 120%;
+    font-weight: 700;
+    font-style: italic;
+    float: left;
+  }
+  .second{
+    color: #ffbb00;
+    font-family: Courier;
+    font-size: 120%;
+    font-weight: 700;
+    font-style: italic;
+    float: left;
+  }
